@@ -12,9 +12,9 @@
   "dependencies": {
     "bcrypt": "^5.1.0",
     "dotenv": "^16.0.3",
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "jsonwebtoken": "^9.0.0",
-    "mongoose": "^6.9.1",
+    "mongoose": "^6.11.3",
     "mongoose-role": "^3.0.5"
   }
 }
